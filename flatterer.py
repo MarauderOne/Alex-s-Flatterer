@@ -2,7 +2,7 @@ def flatterer(flattererDef):
 	print("Welcome to",flattererDef)
 	myName = input("What is your name?")
 	if(myName == "Alex"):
-		print(myName,"is great!")
+		print(myName,"is handsome and good at snuggles!")
 	else:
 		print("Hello",myName)
 
